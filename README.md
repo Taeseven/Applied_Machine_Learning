@@ -1,2 +1,2 @@
 # Applied Machine Learning
-This is the repo of CS5785 Applied Machine Learning offered in Cornell Tech 2019 fall by Prof. Serge.
+This is the repo of Cornell Tech CS5785 Applied Machine Learning 2019 fall offered by Prof. Serge.
